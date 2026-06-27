@@ -8,11 +8,15 @@
 
 ---
 
-## 👩‍💻 Who Am I?
+## 👩‍💻 About Me
 
-I'm Subiksha, an Artificial Intelligence & Data Science student passionate about building impactful software and intelligent systems.
+<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-My interests lie at the intersection of:
+🎓 **Artificial Intelligence & Data Science Student**
+
+💡 Passionate about building impactful software and intelligent systems.
+
+### 🚀 Areas of Interest
 
 🤖 Artificial Intelligence
 
@@ -24,11 +28,20 @@ My interests lie at the intersection of:
 
 ☁️ MLOps
 
-I enjoy transforming raw data into actionable insights and building scalable applications that solve real-world problems.
+### 🔨 What I'm Working On
 
-Currently working on AI-powered applications using RAG, GraphRAG, FastAPI, Spring Boot, and modern data technologies.
+- RAG Applications
+- GraphRAG Systems
+- FastAPI & Spring Boot Projects
+- Data Engineering Workflows
+- AI-Powered Solutions
 
-Always learning. Always building. Always improving.
+### 🌱 Growth Mindset
+
+> Always Learning.  
+> Always Building.  
+> Always Improving.
+
 
 
 ---
