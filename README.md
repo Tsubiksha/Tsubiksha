@@ -8,56 +8,47 @@
 
 ---
 
-```md
 ## 🚀 About Me
 
-<img align="right" alt="AI Developer" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="65%">
 
 ### 👋 Hello, I'm Subiksha Thangavel
 
-🎓 Final Year **B.Tech Artificial Intelligence & Data Science** Student at **Sri Krishna College of Technology (SKCT), Coimbatore**
+🎓 Final Year **B.Tech Artificial Intelligence & Data Science** Student at **Sri Krishna College of Technology (SKCT)**
 
-💡 I am passionate about building **AI-powered products**, **intelligent data solutions**, and **scalable backend systems** that create real-world impact.
+💡 Passionate about building **AI-powered applications**, **data-driven solutions**, and **scalable backend systems**.
 
-🚀 My journey combines **Artificial Intelligence, Data Engineering, Data Analytics, and Backend Development**, enabling me to transform raw data into meaningful insights and intelligent applications.
+🚀 My interests span across:
 
-### 🔥 What I Do
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Analytics & Business Intelligence
+* ⚙️ Data Engineering & Data Pipelines
+* 🌐 Backend Development & APIs
+* ☁️ MLOps & Scalable AI Systems
 
-🤖 Develop AI-powered applications using RAG and GraphRAG
+### 🛠️ Core Expertise
 
-📊 Analyze and visualize data to support data-driven decision making
+🔹 **Languages:** Python, Java, SQL
 
-⚙️ Design scalable REST APIs and backend architectures
+🔹 **Backend:** FastAPI, Django, Flask, Spring Boot
 
-🗄️ Build efficient database-driven applications
+🔹 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
 
-☁️ Explore Data Engineering and MLOps workflows
+🔹 **Databases:** MySQL, SQLite, ChromaDB
 
-### 💻 Technical Expertise
+🔹 **Data & AI:** Pandas, Scikit-Learn, Power BI, RAG, GraphRAG
 
-🔹 Programming: Python, Java, SQL
+### 🌱 Currently Learning
 
-🔹 Backend: FastAPI, Django, Flask, Spring Boot
+* Advanced GraphRAG Architectures
+* Data Engineering Pipelines
+* AI Agents & Agentic Workflows
+* MLOps & Model Deployment
+* Distributed AI Systems
 
-🔹 Frontend: React.js, HTML5, CSS3, Tailwind CSS
-
-🔹 Databases: MySQL, SQLite, ChromaDB
-
-🔹 Data & AI: Pandas, Scikit-Learn, Power BI, RAG, GraphRAG
-
-### 🌱 Currently Exploring
-
-🚀 Advanced GraphRAG Systems
-
-📈 Data Engineering Pipelines
-
-⚡ MLOps & AI Deployment
-
-🏗️ Scalable Backend Architectures
-
-🧠 Intelligent Agentic AI Systems
-
-### 🏆 Achievements
+### 🏆 Highlights
 
 🥇 NPTEL Programming in Java — Elite + Gold (90%)
 
@@ -65,12 +56,22 @@
 
 🎓 CDW STEP Data Engineering Workshop Participant
 
-### 🎯 Career Objective
+📫 Open to **AI Engineer**, **Data Engineer**, **Data Analyst**, and **Backend Developer** opportunities.
 
-I aspire to contribute as an **AI Engineer, Data Engineer, Data Analyst, or Backend Developer**, leveraging technology to solve complex business and societal challenges through innovative software and intelligent systems.
+> **Transforming Data into Intelligence and Ideas into Impact.**
 
-> *"Transforming Data into Intelligence and Ideas into Impact."*
-```
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tsubiksha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 
 ---
