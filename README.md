@@ -4,6 +4,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Backend+Developer+%7C+AI+Engineer;Building+RAG+%26+GraphRAG+Applications;Actively+Seeking+Entry-Level+Opportunities"/>
 
+<br>
+
+🎓 **B.Tech AI & DS @ SKCT**
+
+💼 **AI Engineer | Data Engineer | Data Analyst | Backend Developer**
+
+📍 **Coimbatore, India**
+
+🚀 **Building RAG, GraphRAG & Data-Driven Applications**
+
 </div>
 
 ---
