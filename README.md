@@ -1,8 +1,9 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subiksha%20Thangavel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Data%20Science%20%7C%20Backend%20Developer%20%7C%20GraphRAG%20Enthusiast&descAlignY=62&descSize=16"/>
+```md
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Subiksha%20Thangavel&fontAlign=50&fontAlignY=40&color=0:0F172A,50:1E3A8A,100:2563EB&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Backend%20Developer&descAlignY=60&descSize=18"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Backend+Developer+%7C+AI+Engineer;Building+RAG+%26+GraphRAG+Applications;Actively+Seeking+Entry-Level+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Data+Engineer+%7C+Data+Analyst;Backend+Developer+with+FastAPI+%26+Spring+Boot;Building+RAG+%26+GraphRAG+Applications;Transforming+Data+Into+Intelligent+Solutions;Open+to+Software+%26+Data+Opportunities"/>
 
 </div>
 
@@ -14,49 +15,45 @@
 <tr>
 <td width="65%">
 
-### 👋 Hello, I'm Subiksha Thangavel
+👋 Hi, I'm **Subiksha Thangavel**
 
-🎓 Final Year **B.Tech Artificial Intelligence & Data Science** Student at **Sri Krishna College of Technology (SKCT)**
+🎓 Final Year **B.Tech Artificial Intelligence & Data Science** Student at **Sri Krishna College of Technology**
 
-💡 Passionate about building **AI-powered applications**, **data-driven solutions**, and **scalable backend systems**.
+💡 Passionate about building intelligent applications powered by **AI, Data, and Backend Technologies**.
 
-🚀 My interests span across:
+### 🎯 Focus Areas
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Analytics & Business Intelligence
-* ⚙️ Data Engineering & Data Pipelines
-* 🌐 Backend Development & APIs
-* ☁️ MLOps & Scalable AI Systems
+🤖 Artificial Intelligence & Machine Learning
 
-### 🛠️ Core Expertise
+📊 Data Analytics & Business Intelligence
 
-🔹 **Languages:** Python, Java, SQL
+⚙️ Data Engineering & Data Pipelines
 
-🔹 **Backend:** FastAPI, Django, Flask, Spring Boot
+🌐 Backend Development & APIs
 
-🔹 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+☁️ MLOps & Scalable AI Systems
 
-🔹 **Databases:** MySQL, SQLite, ChromaDB
+### 🛠️ Tech Stack
 
-🔹 **Data & AI:** Pandas, Scikit-Learn, Power BI, RAG, GraphRAG
+**Languages:** Python • Java • SQL
 
-### 🌱 Currently Learning
+**Backend:** FastAPI • Django • Flask • Spring Boot
 
-* Advanced GraphRAG Architectures
-* Data Engineering Pipelines
-* AI Agents & Agentic Workflows
-* MLOps & Model Deployment
-* Distributed AI Systems
+**Frontend:** React.js • HTML5 • CSS3 • Tailwind CSS
+
+**Databases:** MySQL • SQLite • ChromaDB
+
+**Analytics:** Pandas • Scikit-Learn • Power BI
 
 ### 🏆 Highlights
 
-🥇 NPTEL Programming in Java — Elite + Gold (90%)
+🥇 NPTEL Java Elite + Gold (90%)
 
-🏆 Runner-Up — Prompt Verse National Level Technical Symposium
+🏆 Prompt Verse Runner-Up
 
-🎓 CDW STEP Data Engineering Workshop Participant
+🎓 CDW STEP Data Engineering Workshop
 
-📫 Open to **AI Engineer**, **Data Engineer**, **Data Analyst**, and **Backend Developer** opportunities.
+📫 Open to **AI Engineering**, **Data Engineering**, **Data Analytics**, and **Backend Development** opportunities.
 
 > **Transforming Data into Intelligence and Ideas into Impact.**
 
@@ -67,12 +64,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Tsubiksha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
-
 </tr>
 </table>
-
----
-
 
 ---
 
@@ -122,9 +115,9 @@
 
 ### AI & Data
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-AI-blue)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-AI-green)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Database-purple)
@@ -199,23 +192,23 @@
 
 # 🚀 Featured Projects
 
-| Project                           | Technologies              | Description                                                                           |
-| --------------------------------- | ------------------------- | ------------------------------------------------------------------------------------- |
-| Smart School Communication Portal | Spring Boot, MySQL, JWT   | Role-based school management system with attendance, notices, meetings, and analytics |
-| SmartHire AI Recruitment Platform | Django, DRF, TF-IDF       | AI-powered recruitment platform with ATS scoring and candidate ranking                |
-| SKCT GraphRAG Chatbot             | FastAPI, Ollama, GraphRAG | AI chatbot capable of answering queries from live website content                     |
-| DocuSherlock AI                   | FastAPI, React, ChromaDB  | Multi-user RAG PDF assistant with semantic search and citations                       |
+| Project | Technologies | Description |
+|---|---|---|
+| Smart School Communication Portal | Spring Boot, MySQL, JWT | Role-based school management system with attendance, notices, meetings, and analytics |
+| SmartHire AI Recruitment Platform | Django, DRF, TF-IDF | AI-powered recruitment platform with ATS scoring and candidate ranking |
+| SKCT GraphRAG Chatbot | FastAPI, Ollama, GraphRAG | AI chatbot capable of answering queries from live website content |
+| DocuSherlock AI | FastAPI, React, ChromaDB | Multi-user RAG PDF assistant with semantic search and citations |
 
 ---
 
 # 🏅 Achievements
 
-| Achievement                  | Details                                                                |
-| ---------------------------- | ---------------------------------------------------------------------- |
-| 🥇 NPTEL Programming in Java | Elite + Gold Certification (90%)                                       |
-| 🏆 Prompt Verse              | Runner-Up (2nd Place) National Level Technical Symposium               |
-| 🎓 CDW STEP Program          | Data Engineering Workshop Participant                                  |
-| 💡 AI Projects               | Developed RAG, GraphRAG, Recruitment AI and Enterprise Backend Systems |
+| Achievement | Details |
+|---|---|
+| 🥇 NPTEL Programming in Java | Elite + Gold Certification (90%) |
+| 🏆 Prompt Verse | Runner-Up (2nd Place) National Level Technical Symposium |
+| 🎓 CDW STEP Program | Data Engineering Workshop Participant |
+| 💡 AI Projects | Developed RAG, GraphRAG, Recruitment AI and Enterprise Backend Systems |
 
 ---
 
@@ -230,7 +223,7 @@
 
 # 🎓 Education
 
-### Sri Krishna College of Technology (SKCT)
+### Sri Krishna College of Technology
 
 **B.Tech – Artificial Intelligence and Data Science**
 
@@ -259,7 +252,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Tsubiksha\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Tsubiksha&color=blue)
 
 </div>
 
@@ -267,6 +260,9 @@
 
 <div align="center">
 
-### 🚀 Open to Software Engineering, Data Engineering, AI Engineering and Backend Development Opportunities
+### 🚀 Open to Software Engineering, Data Engineering, AI Engineering, Data Analytics and Backend Development Opportunities
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer"/>
+```
