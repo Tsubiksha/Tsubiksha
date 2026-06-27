@@ -32,7 +32,6 @@ I enjoy transforming raw data into actionable insights and building scalable app
 Currently working on AI-powered applications using RAG, GraphRAG, FastAPI, Spring Boot, and modern data technologies.
 
 Always learning. Always building. Always improving.
-```
 
 
 ---
