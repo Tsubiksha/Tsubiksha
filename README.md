@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-```md
+
 ## 👩‍💻 Who Am I?
 
 I'm Subiksha, an Artificial Intelligence & Data Science student passionate about building impactful software and intelligent systems.
