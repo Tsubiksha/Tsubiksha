@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subiksha%20Thangavel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Data%20Science%20%7C%20Backend%20Developer%20%7C%20GraphRAG%20Enthusiast&descAlignY=62&descSize=16"/>
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subiksha%20Thangavel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Data%20Science%20%7C%20Backend%20Developer%20%7C%20GraphRAG%20Enthusiast&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
@@ -10,16 +10,33 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Artificial Intelligence & Data Science Student
-- 🏫 Sri Krishna College of Technology (SKCT)
-- 📍 Coimbatore, India
-- 💻 Backend Developer | AI Engineer | Data Enthusiast
-- 🚀 Building RAG, GraphRAG and AI-powered Applications
-- 🌱 Currently Learning Data Engineering, MLOps and Advanced Backend Systems
-- 🏆 NPTEL Java Elite + Gold (90%)
-- 💡 Passionate about solving real-world problems using AI and Scalable Systems
+```python
+class SubikshaThangavel:
+
+    name = "Subiksha Thangavel"
+    location = "Coimbatore, India"
+    degree = "B.Tech Artificial Intelligence & Data Science"
+
+    stack = [
+        "Python", "Java", "SQL",
+        "FastAPI", "Django", "Flask", "Spring Boot",
+        "React", "MySQL", "SQLite", "ChromaDB"
+    ]
+
+    currently_learning = [
+        "GraphRAG",
+        "Data Engineering",
+        "MLOps",
+        "Advanced Backend Systems"
+    ]
+
+    fun_fact = "I enjoy turning AI ideas into production-ready applications."
+
+    def motto():
+        return "Learn. Build. Improve. Repeat."
 ```
 
+---
 
 ## 🌐 Connect With Me
 
