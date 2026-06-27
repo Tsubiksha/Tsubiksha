@@ -10,33 +10,16 @@
 
 ## 👩‍💻 About Me
 
-```python
-class SubikshaThangavel:
-
-    name = "Subiksha Thangavel"
-    location = "Coimbatore, India"
-    degree = "B.Tech Artificial Intelligence & Data Science"
-
-    stack = [
-        "Python", "Java", "SQL",
-        "FastAPI", "Django", "Flask", "Spring Boot",
-        "React", "MySQL", "SQLite", "ChromaDB"
-    ]
-
-    currently_learning = [
-        "GraphRAG",
-        "Data Engineering",
-        "MLOps",
-        "Advanced Backend Systems"
-    ]
-
-    fun_fact = "I enjoy turning AI ideas into production-ready applications."
-
-    def motto():
-        return "Learn. Build. Improve. Repeat."
+- 🎓 B.Tech Artificial Intelligence & Data Science Student
+- 🏫 Sri Krishna College of Technology (SKCT)
+- 📍 Coimbatore, India
+- 💻 Backend Developer | AI Engineer | Data Enthusiast
+- 🚀 Building RAG, GraphRAG and AI-powered Applications
+- 🌱 Currently Learning Data Engineering, MLOps and Advanced Backend Systems
+- 🏆 NPTEL Java Elite + Gold (90%)
+- 💡 Passionate about solving real-world problems using AI and Scalable Systems
 ```
 
----
 
 ## 🌐 Connect With Me
 
