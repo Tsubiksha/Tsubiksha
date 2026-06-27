@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Subiksha%20Thangavel&fontAlign=50&fontAlignY=40&color=0:000000,50:0F172A,100:2563EB&fontColor=ffffff&desc=AI%20%7C%20Data%20Science%20%7C%20Backend%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Subiksha%20Thangavel&fontAlign=50&fontAlignY=40&color=0:161B22,50:21262D,100:30363D&fontColor=58A6FF&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Data%20Science&descAlignY=60"/>
 
 <div align="center">
 
