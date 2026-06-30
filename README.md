@@ -1,4 +1,3 @@
-```md
 <!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Subiksha%20Thangavel&fontAlign=50&fontAlignY=40&color=0:0F172A,50:1E3A8A,100:2563EB&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Backend%20Developer&descAlignY=60&descSize=18" />
@@ -186,4 +185,4 @@ Currently working on AI-powered applications using **RAG**, **GraphRAG**, **Fast
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB" />
 </p>
-```
+
