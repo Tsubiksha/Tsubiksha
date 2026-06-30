@@ -1,166 +1,189 @@
+```md
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subiksha%20Thangavel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Subiksha%20Thangavel&fontAlign=50&fontAlignY=40&color=0:0F172A,50:1E3A8A,100:2563EB&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Backend%20Developer&descAlignY=60&descSize=18" />
 </p>
-<!-- TYPING HEADER -->
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Data+Science+Student;AI+Engineer+%7C+Data+Engineer+%7C+Data+Analyst;Backend+Developer+with+FastAPI+%26+Spring+Boot;Building+RAG+%26+GraphRAG+Applications;Turning+Data+into+Intelligent+Solutions" />
+</div>
+
+<br>
+
+<!-- QUICK PROFILE -->
+<div align="center">
+
+🎓 **B.Tech AI & DS @ Sri Krishna College of Technology**
+
+💼 **AI Engineer | Data Engineer | Data Analyst | Backend Developer**
+
+📍 **Coimbatore, India**
+
+🚀 **Building RAG, GraphRAG & Data-Driven Applications**
+
+</div>
+
+<br>
+
+<!-- SOCIAL LINKS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer;Backend+Developer+%7C+FastAPI+%7C+Django+%7C+Spring+Boot;Building+RAG+%26+GraphRAG+AI+Systems;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+  <a href="mailto:subikshat7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/subikshathangavel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tsubiksha">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-<!-- PROFILE VIEWS & SOCIALS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subiksha&style=flat-square&color=70A5FD" alt="Profile Views" />
-  <a href="mailto:subikshat7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/subiksha-thangavel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
 
-<!-- CODE BLOCK ABOUT ME -->
-pythonclass Subiksha:
-    name        = "Subiksha Thangavel"
-    location    = "Coimbatore, Tamil Nadu, India"
-    degree      = "B.Tech – Artificial Intelligence & Data Science (2026)"
-    college     = "Sri Krishna College of Technology"
-    email       = "subikshat7@gmail.com"
+---
 
-    stack = [
-        "Python", "Java", "SQL",
-        "FastAPI", "Django", "Flask", "Spring Boot",
-        "React.js", "HTML5", "CSS3", "Tailwind CSS",
-        "MySQL", "SQLite", "ChromaDB",
-        "Pandas", "Scikit-learn", "RAG", "GraphRAG", "Ollama",
-        "Power BI", "Excel", "AWS"
-    ]
+## 👩‍💻 About Me
 
-    currently_learning = ["GraphRAG architectures", "LLM orchestration", "Cloud-native deployments"]
+Hi, I'm **Subiksha Thangavel**, an **Artificial Intelligence & Data Science** student passionate about building impactful software and intelligent systems.
 
-    fun_fact = "I upgraded a RAG system to GraphRAG and it actually made sense to the chatbot 🤖"
+My interests lie at the intersection of **Artificial Intelligence**, **Data Analytics**, **Data Engineering**, **Backend Development**, and **MLOps**.
 
-    def motto(self):
-        return "Build systems that think, learn, and scale."
+I enjoy transforming raw data into actionable insights and building scalable applications that solve real-world problems.
 
+Currently working on AI-powered applications using **RAG**, **GraphRAG**, **FastAPI**, **Spring Boot**, and modern data technologies.
 
-<!-- TECH BADGES -->
-🛠️ Tech Stack
+> **Always Learning. Always Building. Always Improving.**
 
-Languages
+---
 
-Show Image
-Show Image
-Show Image
+## 🎯 Current Focus
 
-Frontend
+- 🤖 Building AI-powered applications
+- 📊 Data Analytics and Business Intelligence
+- ⚙️ Data Engineering and ETL Pipelines
+- 🌐 Backend Development with FastAPI and Spring Boot
+- 🔗 RAG and GraphRAG-based intelligent systems
+- ☁️ MLOps and AI deployment
 
-Show Image
-Show Image
-Show Image
-Show Image
+---
 
-Backend Frameworks
-
-Show Image
-Show Image
-Show Image
-Show Image
-
-Databases
-
-Show Image
-Show Image
-Show Image
-
-AI & Data
-
-Show Image
-Show Image
-Show Image
-
-Cloud & Tools
-
-Show Image
-Show Image
-Show Image
-
-
-<!-- GITHUB STATS -->
-📊 GitHub Stats
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subiksha&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subiksha&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" height="170" />
-</p>
-<!-- STREAK STATS -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subiksha&theme=tokyonight&background=0d1117&hide_border=true" />
-</p>
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subiksha&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
-</p>
-<!-- TROPHY WALL -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subiksha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,tailwind,fastapi,django,flask,spring,mysql,sqlite,git,github,vscode" />
 </p>
 
-<!-- WORK EXPERIENCE -->
-💼 Work Experience
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphRAG-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|---|---|---|
+| **SKCT GraphRAG Chatbot** | FastAPI, GraphRAG, Ollama, Web Scraping | AI chatbot for real-time website Q&A using GraphRAG architecture for improved contextual understanding. |
+| **DocuSherlock AI** | FastAPI, React, ChromaDB, SQLite, Ollama | Multi-user RAG PDF assistant with semantic search, citation retrieval, and persistent chat history. |
+| **SmartHire AI Recruitment Platform** | Django, DRF, MySQL, TF-IDF, Cosine Similarity | AI-based resume analysis platform with ATS scoring, job recommendations, and candidate ranking. |
+| **Smart School Communication Portal** | Spring Boot, MySQL, JWT, Hibernate | Role-based school management portal for notices, attendance, meetings, and parent-teacher communication. |
+| **Placement Prediction System** | Python, Pandas, Scikit-Learn, Logistic Regression | Machine learning model that predicts student placement outcomes using academic and aptitude features. |
+
+---
+
+## 💼 Experience
 
 <details>
-<summary><b>🐍 Python with AI Intern — Dot Com Infoway (2026)</b></summary>
+<summary><b>🐍 Python with AI Intern — Dot Com Infoway</b></summary>
 
-Developed AI-powered and full-stack applications including RAG systems, GraphRAG chatbots, recruitment platforms, and workflow management systems.
-Built backend APIs, semantic retrieval pipelines, role-based platforms, and intelligent data-driven applications using FastAPI, Django, Flask, and Spring Boot.
-Worked on document retrieval systems, AI orchestration, database management, authentication workflows, and responsive frontend integration.
-Collaborated on real-world project development involving React, MySQL, SQLite, ChromaDB, Ollama, and REST API architectures.
+<br>
 
-
-</details>
-<details>
-<summary><b>🎨 Web Design Intern — Adventure Technology Solution Pvt. Ltd. (2025)</b></summary>
-
-Designed and developed responsive web interfaces using HTML, CSS, and JavaScript.
-Collaborated with designers to implement clean UI/UX elements for internal web applications.
-Gained hands-on experience with version control, layout optimization, cross-browser testing, and modern web design standards.
-
+- Developed AI-powered and full-stack applications.
+- Built RAG and GraphRAG-based intelligent systems.
+- Worked with FastAPI, Django, Flask, React, SQLite, ChromaDB, and Ollama.
+- Implemented semantic search, backend APIs, authentication workflows, and data-driven features.
 
 </details>
 
-<!-- FEATURED PROJECTS -->
-🚀 Featured Projects
+<details>
+<summary><b>🎨 Web Design Intern — Adventure Technology Solution Pvt. Ltd.</b></summary>
+
+<br>
+
+- Designed responsive web interfaces using HTML, CSS, and JavaScript.
+- Worked on UI layouts, frontend styling, and web design practices.
+- Gained experience in version control, layout optimization, and responsive design.
+
+</details>
+
+---
+
+## 🏆 Achievements & Certifications
+
+| Achievement | Details |
+|---|---|
+| 🏅 **Elite + Gold** | NPTEL Programming in Java — Score: 90% |
+| 🥈 **Runner-Up** | Prompt Verse — NEXERA National Level Technical Symposium |
+| 🎓 **Workshop** | CDW STEP Student Program — Data Engineering |
+| ☁️ **AWS** | Cloud Practitioner Essentials |
+| 🤖 **IBM** | Introduction to Artificial Intelligence |
+| 🐍 **Certification** | Python for Data Science |
+| 🗄️ **Certification** | SQL for Beginners: Querying Data |
+
+---
+
+## 📚 Currently Learning
+
+- Advanced GraphRAG architectures
+- Knowledge graph construction
+- LLM orchestration
+- Data engineering pipelines
+- Cloud-native AI deployment
+- MLOps and scalable backend systems
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-ProjectStackDescriptionSmartHire – AI Campus RecruitmentDjango · DRF · TF-IDF · Cosine Similarity · MySQLAI-based resume analysis, ATS scoring, job recommendation engine, and candidate ranking system with secure auth & analytics dashboardsSKCT GraphRAG ChatbotFastAPI · GraphRAG · Ollama · Web ScrapingAI chatbot using GraphRAG architecture for real-time website Q&A; upgraded from RAG to GraphRAG for improved contextual groundingDocuSherlock AI – RAG PDF AssistantFastAPI · React · ChromaDB · Ollama · SQLiteMulti-user production-grade RAG app for intelligent PDF Q&A with semantic search, citation retrieval, and persistent chat historySmart School Communication PortalSpring Boot · MySQL · JWT · HibernateRole-based school management portal for notices, attendance, meetings, and parent-teacher communication with analytics dashboards
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsubiksha&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubiksha&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=8" height="170" />
 </p>
-
-<!-- ACHIEVEMENTS -->
-🏆 Achievements & Certifications
 
 <p align="center">
-AchievementDetails🥈 Runner-Up"Prompt Verse" — NEXERA National Level Technical Symposium🏅 Elite + GoldNPTEL Programming in Java — Score: 90%🎓 WorkshopCDW STEP Student Program — Data Engineering☁️ AWSCloud Practitioner Essentials — 2025🤖 IBMIntroduction to AI — 2024🐍 CertificationPython for Data Science — 2024🗄️ CertificationSQL for Beginners: Querying Data — 2024
-
+  <img src="https://streak-stats.demolab.com?user=Tsubiksha&theme=tokyonight&background=0D1117&hide_border=true" />
 </p>
 
-<!-- EDUCATION & CURRENTLY LEARNING -->
-🎓 Education
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsubiksha&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+</p>
 
-B.Tech in Artificial Intelligence & Data Science
-Sri Krishna College of Technology, Coimbatore · 2026 (Present)
+---
 
+## 🌟 GitHub Trophy
 
-📚 Currently Learning
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tsubiksha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
 
+---
 
-🔗 Advanced GraphRAG architectures & knowledge graph construction
-🤖 LLM orchestration and multi-agent AI systems
-☁️ Cloud-native deployments on AWS
-📊 Advanced data visualization and BI dashboards
+## 💡 Motto
 
+<p align="center">
+  <i>"Transforming Data into Intelligence and Ideas into Impact."</i>
+</p>
 
+<p align="center">
+  <b>🚀 Open to AI Engineering, Data Engineering, Data Analytics, and Backend Development Opportunities</b>
+</p>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB" />
 </p>
-<p align="center">
-  <i>"Build systems that think, learn, and scale."</i><br/>
-  ⭐ <b>Feel free to star repos you find interesting!</b>
-</p>
+```
